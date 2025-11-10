@@ -1,5 +1,1 @@
 This is a document which will help to understant ToDo list application.
-Please refer this to modify existing code base.
-hello world
-Okay
-This is a document which will help to understant ToDo list application.
